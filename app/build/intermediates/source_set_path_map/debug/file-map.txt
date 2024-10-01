@@ -1,0 +1,58 @@
+com.example.jollycat.app-lifecycle-livedata-core-2.6.2-0 C:\Users\gabri\.gradle\caches\transforms-3\0389e367a3ce165645b92f01bf7b28f3\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.jollycat.app-play-services-maps-18.2.0-1 C:\Users\gabri\.gradle\caches\transforms-3\089d3346068b17bc8a32275a82af26ee\transformed\play-services-maps-18.2.0\res
+com.example.jollycat.app-lifecycle-viewmodel-savedstate-2.6.2-2 C:\Users\gabri\.gradle\caches\transforms-3\0cd40dc6d04407ff00d0905355b9966f\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.jollycat.app-lifecycle-runtime-2.6.2-3 C:\Users\gabri\.gradle\caches\transforms-3\0dea38c88eb56e84e78a80ef1cabfbf7\transformed\lifecycle-runtime-2.6.2\res
+com.example.jollycat.app-lifecycle-runtime-ktx-2.6.2-4 C:\Users\gabri\.gradle\caches\transforms-3\152b022e070b780ed9fd885e5808f8ea\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.jollycat.app-play-services-basement-18.0.0-5 C:\Users\gabri\.gradle\caches\transforms-3\198170800c3c626ba2f9a2625efe80bf\transformed\play-services-basement-18.0.0\res
+com.example.jollycat.app-transition-1.4.1-6 C:\Users\gabri\.gradle\caches\transforms-3\1aa397c603313928b6d8c984a613a8dc\transformed\transition-1.4.1\res
+com.example.jollycat.app-navigation-common-2.7.7-7 C:\Users\gabri\.gradle\caches\transforms-3\1b75a7d0150d5563f560891c28f12ae6\transformed\navigation-common-2.7.7\res
+com.example.jollycat.app-activity-ktx-1.8.0-8 C:\Users\gabri\.gradle\caches\transforms-3\2105b445a260b111eac884847456e230\transformed\activity-ktx-1.8.0\res
+com.example.jollycat.app-cardview-1.0.0-9 C:\Users\gabri\.gradle\caches\transforms-3\30d94dc34f85b8e6443a9c955089fd01\transformed\cardview-1.0.0\res
+com.example.jollycat.app-navigation-fragment-ktx-2.7.7-10 C:\Users\gabri\.gradle\caches\transforms-3\38df8939d6ab9af0bc0ca6eb92712c5f\transformed\navigation-fragment-ktx-2.7.7\res
+com.example.jollycat.app-drawerlayout-1.1.1-11 C:\Users\gabri\.gradle\caches\transforms-3\3e683af507d19bc0b40b3b7dc46fc636\transformed\drawerlayout-1.1.1\res
+com.example.jollycat.app-constraintlayout-2.1.4-12 C:\Users\gabri\.gradle\caches\transforms-3\48df2d4e7f2a245fd0b1fbbcb35ff46a\transformed\constraintlayout-2.1.4\res
+com.example.jollycat.app-core-ktx-1.12.0-13 C:\Users\gabri\.gradle\caches\transforms-3\4a4700cab9a66dc7123c079cec83b3db\transformed\core-ktx-1.12.0\res
+com.example.jollycat.app-savedstate-1.2.1-14 C:\Users\gabri\.gradle\caches\transforms-3\4a71c9bf9f64f67f5601b7c80f2e3172\transformed\savedstate-1.2.1\res
+com.example.jollycat.app-navigation-fragment-2.7.7-15 C:\Users\gabri\.gradle\caches\transforms-3\4f04981648f307b91fb02cd63497b214\transformed\navigation-fragment-2.7.7\res
+com.example.jollycat.app-glide-4.16.0-16 C:\Users\gabri\.gradle\caches\transforms-3\501c4ebb2e46e9cc97b41c999225c65b\transformed\glide-4.16.0\res
+com.example.jollycat.app-lifecycle-viewmodel-ktx-2.6.2-17 C:\Users\gabri\.gradle\caches\transforms-3\54fd48f35f8506a154ebd98baa0145a6\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.jollycat.app-fragment-1.6.2-18 C:\Users\gabri\.gradle\caches\transforms-3\55386e3f1406bed1edec40d4636bdb8f\transformed\fragment-1.6.2\res
+com.example.jollycat.app-datastore-core-release-19 C:\Users\gabri\.gradle\caches\transforms-3\57b057e0388a3f8535922036879a1614\transformed\datastore-core-release\res
+com.example.jollycat.app-savedstate-ktx-1.2.1-20 C:\Users\gabri\.gradle\caches\transforms-3\689f7a0729533bf1c60994cfb32cec0d\transformed\savedstate-ktx-1.2.1\res
+com.example.jollycat.app-recyclerview-1.1.0-21 C:\Users\gabri\.gradle\caches\transforms-3\6d163f339b1f5ab6021f3d00771cae58\transformed\recyclerview-1.1.0\res
+com.example.jollycat.app-viewpager2-1.0.0-22 C:\Users\gabri\.gradle\caches\transforms-3\711f1371981309fde314277b626c6b91\transformed\viewpager2-1.0.0\res
+com.example.jollycat.app-lifecycle-viewmodel-2.6.2-23 C:\Users\gabri\.gradle\caches\transforms-3\76e15e7b68051fc0740a2b82431122f4\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.jollycat.app-navigation-ui-ktx-2.7.7-24 C:\Users\gabri\.gradle\caches\transforms-3\7b4f42e176f6def7113e6002c59c4de8\transformed\navigation-ui-ktx-2.7.7\res
+com.example.jollycat.app-startup-runtime-1.1.1-25 C:\Users\gabri\.gradle\caches\transforms-3\7d3853b978ebd0b9e9fa6b09e25d4cd0\transformed\startup-runtime-1.1.1\res
+com.example.jollycat.app-appcompat-resources-1.6.1-26 C:\Users\gabri\.gradle\caches\transforms-3\84c8cd3a0f5b23cdb0d11ec7d8c420ea\transformed\appcompat-resources-1.6.1\res
+com.example.jollycat.app-play-services-base-18.0.1-27 C:\Users\gabri\.gradle\caches\transforms-3\88c327c6b1223970918a566f758a8c71\transformed\play-services-base-18.0.1\res
+com.example.jollycat.app-navigation-common-ktx-2.7.7-28 C:\Users\gabri\.gradle\caches\transforms-3\88c3e8560af304d72ab54218ede2b35f\transformed\navigation-common-ktx-2.7.7\res
+com.example.jollycat.app-navigation-ui-2.7.7-29 C:\Users\gabri\.gradle\caches\transforms-3\8bb40c4d66dab9bdc871ccd808df2c1f\transformed\navigation-ui-2.7.7\res
+com.example.jollycat.app-fragment-ktx-1.6.2-30 C:\Users\gabri\.gradle\caches\transforms-3\9bafe1fe202a55259d3bf2fedbe19b83\transformed\fragment-ktx-1.6.2\res
+com.example.jollycat.app-activity-1.8.0-31 C:\Users\gabri\.gradle\caches\transforms-3\9d6850c56d475cdc94ca84916326ab7f\transformed\activity-1.8.0\res
+com.example.jollycat.app-datastore-release-32 C:\Users\gabri\.gradle\caches\transforms-3\a4d81c44f4504c6bfbd47ec7ae4bc8b7\transformed\datastore-release\res
+com.example.jollycat.app-profileinstaller-1.3.0-33 C:\Users\gabri\.gradle\caches\transforms-3\a72fa8956aaba6b5e6edf1067b431808\transformed\profileinstaller-1.3.0\res
+com.example.jollycat.app-datastore-preferences-release-34 C:\Users\gabri\.gradle\caches\transforms-3\a99404ddbcd334772f09ddf55bee4046\transformed\datastore-preferences-release\res
+com.example.jollycat.app-core-runtime-2.2.0-35 C:\Users\gabri\.gradle\caches\transforms-3\adb8c84d55c3f82020f5dfc74b3a7f20\transformed\core-runtime-2.2.0\res
+com.example.jollycat.app-lifecycle-livedata-2.6.2-36 C:\Users\gabri\.gradle\caches\transforms-3\b284bfdf61c78444e9b419ae31ffdada\transformed\lifecycle-livedata-2.6.2\res
+com.example.jollycat.app-lifecycle-process-2.6.2-37 C:\Users\gabri\.gradle\caches\transforms-3\bb4928c991fcf44e7d21db1c09402c67\transformed\lifecycle-process-2.6.2\res
+com.example.jollycat.app-appcompat-1.6.1-38 C:\Users\gabri\.gradle\caches\transforms-3\c3b1d36ae520475e3d7f9815123f753a\transformed\appcompat-1.6.1\res
+com.example.jollycat.app-annotation-experimental-1.3.0-39 C:\Users\gabri\.gradle\caches\transforms-3\c9577f410341f31682c6655863539048\transformed\annotation-experimental-1.3.0\res
+com.example.jollycat.app-navigation-runtime-ktx-2.7.7-40 C:\Users\gabri\.gradle\caches\transforms-3\cb12a83fee5d5fb845a60a4d6adb80bb\transformed\navigation-runtime-ktx-2.7.7\res
+com.example.jollycat.app-material-1.11.0-41 C:\Users\gabri\.gradle\caches\transforms-3\cc3105be94ef3a5cf66e915fc8cfb66f\transformed\material-1.11.0\res
+com.example.jollycat.app-navigation-runtime-2.7.7-42 C:\Users\gabri\.gradle\caches\transforms-3\cd00218e42ffd79def02d7480cf9c148\transformed\navigation-runtime-2.7.7\res
+com.example.jollycat.app-slidingpanelayout-1.2.0-43 C:\Users\gabri\.gradle\caches\transforms-3\d362a9391a4cc4553d3690db9e4d0a3d\transformed\slidingpanelayout-1.2.0\res
+com.example.jollycat.app-emoji2-1.2.0-44 C:\Users\gabri\.gradle\caches\transforms-3\d38961b61d8d5120b24732980b97c261\transformed\emoji2-1.2.0\res
+com.example.jollycat.app-core-1.12.0-45 C:\Users\gabri\.gradle\caches\transforms-3\dc533e93a2392664935b1a531dc01e85\transformed\core-1.12.0\res
+com.example.jollycat.app-emoji2-views-helper-1.2.0-46 C:\Users\gabri\.gradle\caches\transforms-3\f036d38f569d03be3a39521006982cf7\transformed\emoji2-views-helper-1.2.0\res
+com.example.jollycat.app-coordinatorlayout-1.1.0-47 C:\Users\gabri\.gradle\caches\transforms-3\f590f6d495026ea87dac0cf9fca041d7\transformed\coordinatorlayout-1.1.0\res
+com.example.jollycat.app-window-1.0.0-48 C:\Users\gabri\.gradle\caches\transforms-3\f84c4f09d9e0b07c0956b21eee486e36\transformed\window-1.0.0\res
+com.example.jollycat.app-lifecycle-livedata-core-ktx-2.6.2-49 C:\Users\gabri\.gradle\caches\transforms-3\ff20d2d9120336c55bffa542b08235c2\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.example.jollycat.app-pngs-50 D:\.system32\Kelompok 1\JollyCat\app\build\generated\res\pngs\debug
+com.example.jollycat.app-resValues-51 D:\.system32\Kelompok 1\JollyCat\app\build\generated\res\resValues\debug
+com.example.jollycat.app-rs-52 D:\.system32\Kelompok 1\JollyCat\app\build\generated\res\rs\debug
+com.example.jollycat.app-packageDebugResources-53 D:\.system32\Kelompok 1\JollyCat\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.jollycat.app-packageDebugResources-54 D:\.system32\Kelompok 1\JollyCat\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.jollycat.app-merged_res-55 D:\.system32\Kelompok 1\JollyCat\app\build\intermediates\merged_res\debug
+com.example.jollycat.app-debug-56 D:\.system32\Kelompok 1\JollyCat\app\src\debug\res
+com.example.jollycat.app-main-57 D:\.system32\Kelompok 1\JollyCat\app\src\main\res

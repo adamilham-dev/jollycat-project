@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.jollycat.app-main-57:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_siamese.jpg.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/siamese.jpg"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.jollycat.app-main-57:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_maine_coon.png.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/maine_coon.png"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_ic_delete.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/layout_recyclerview_history_card.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/layout/recyclerview_history_card.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_ragdoll.jpg.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/ragdoll.jpg"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/xml_backup_rules.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jollycat.app-main-57:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_ic_next_navigate.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/ic_next_navigate.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_scottish_fold.jpg.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/scottish_fold.jpg"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/menu_bottom_app_bar_menu.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/menu/bottom_app_bar_menu.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_baseline_home_24.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_ragamuffin.jpg.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/ragamuffin.jpg"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/layout_fragment_cart.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_ic_sad.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/ic_sad.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jollycat.app-main-57:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_ic_info.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/ic_info.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_baseline_person_24.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/layout_activity_cat_detail.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/layout/activity_cat_detail.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_baseline_history_edu_24.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/baseline_history_edu_24.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.jollycat.app-main-57:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_ic_back.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jollycat.app-main-57:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_background_bottom_rounded.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/background_bottom_rounded.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_baseline_attach_money_24.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/baseline_attach_money_24.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_ic_edit.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/layout_fragment_home.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_bottom_menu_item_color.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/bottom_menu_item_color.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_bengal.jpg.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/bengal.jpg"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/font_poppins_regular.ttf.flat",
+        "source": "com.example.jollycat.app-main-57:/font/poppins_regular.ttf"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_baseline_calendar_today_24.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/baseline_calendar_today_24.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_baseline_star_rate_24.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/baseline_star_rate_24.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jollycat.app-main-57:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/layout_activity_about_us.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/layout_recyclerview_product_card.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/layout/recyclerview_product_card.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_jollycat_logo.png.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/jollycat_logo.png"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_ic_home.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/layout_activity_login.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_rounded_edit_text.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/rounded_edit_text.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/layout_fragment_profile.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_jollycat_mini_logo.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/jollycat_mini_logo.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_background_blue_gradient.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/background_blue_gradient.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.jollycat.app-main-57:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/layout_activity_home.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_ic_profile.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/ic_profile.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_background_top_start_rounded.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/background_top_start_rounded.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_jollycat_logo_blue_small.png.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/jollycat_logo_blue_small.png"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_jollycat_logo_blue.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/jollycat_logo_blue.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.jollycat.app-main-57:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/layout_activity_register.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/layout_alert_custom_layout.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/layout/alert_custom_layout.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/layout_activity_main.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_circle_background.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/circle_background.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_ic_cart.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/ic_cart.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_btn_profile_setting.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/btn_profile_setting.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_background_btn_blue.xml.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/background_btn_blue.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_sphynx.jpg.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/sphynx.jpg"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/drawable_persia.jpg.flat",
+        "source": "com.example.jollycat.app-main-57:/drawable/persia.jpg"
+    },
+    {
+        "merged": "com.example.jollycat.app-merged_res-55:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.jollycat.app-main-57:/mipmap-hdpi/ic_launcher_round.webp"
+    }
+]

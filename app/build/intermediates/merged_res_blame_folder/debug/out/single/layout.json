@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.example.jollycat.app-mergeDebugResources-54:/layout/activity_home.xml",
+        "source": "com.example.jollycat.app-main-57:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-mergeDebugResources-54:/layout/fragment_profile.xml",
+        "source": "com.example.jollycat.app-main-57:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-mergeDebugResources-54:/layout/fragment_home.xml",
+        "source": "com.example.jollycat.app-main-57:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-mergeDebugResources-54:/layout/activity_cat_detail.xml",
+        "source": "com.example.jollycat.app-main-57:/layout/activity_cat_detail.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-mergeDebugResources-54:/layout/activity_main.xml",
+        "source": "com.example.jollycat.app-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-mergeDebugResources-54:/layout/recyclerview_product_card.xml",
+        "source": "com.example.jollycat.app-main-57:/layout/recyclerview_product_card.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-mergeDebugResources-54:/layout/activity_about_us.xml",
+        "source": "com.example.jollycat.app-main-57:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-mergeDebugResources-54:/layout/activity_register.xml",
+        "source": "com.example.jollycat.app-main-57:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-mergeDebugResources-54:/layout/alert_custom_layout.xml",
+        "source": "com.example.jollycat.app-main-57:/layout/alert_custom_layout.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-mergeDebugResources-54:/layout/recyclerview_history_card.xml",
+        "source": "com.example.jollycat.app-main-57:/layout/recyclerview_history_card.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-mergeDebugResources-54:/layout/fragment_cart.xml",
+        "source": "com.example.jollycat.app-main-57:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.example.jollycat.app-mergeDebugResources-54:/layout/activity_login.xml",
+        "source": "com.example.jollycat.app-main-57:/layout/activity_login.xml"
+    }
+]

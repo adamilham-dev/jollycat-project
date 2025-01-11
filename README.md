@@ -40,8 +40,8 @@ JollyCat is an Android-based application that makes it easy for users to purchas
 ### 1. Clone the Repository
 
 ```bash
-$ git clone https://github.com/adamilham-dev/jollycat-project.git
-$ cd jollycat-project
+$ git clone https://github.com/adamilham-dev/catshop-app-training.git
+$ cd catshop-app-training
 ```
 
 ### 2. Configure Google Maps API

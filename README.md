@@ -79,7 +79,7 @@ We welcome contributions to the development of this app. If you are interested, 
 
 ## External Documentation (in Bahasa)
 
-For additional documentation, visit [this link](https://drive.google.com/file/d/1rvmUaFPgIWV4TVP0yb1j0581bW1tTagB/view?usp=sharing).
+For additional documentation, visit [this link](https://docs.google.com/document/d/1Yns46uymV5CfADuNGy4ZtTYtWkDZZcGr/edit?usp=sharing&ouid=115226517391123230270&rtpof=true&sd=true).
 
 ---
 
